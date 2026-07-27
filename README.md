@@ -5,6 +5,13 @@
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/📦_Total_LOC-5,432,773-blue?style=flat" alt="LOC" />
+  <img src="https://img.shields.io/badge/📈_Added-+8.25M-success?style=flat" alt="Added" />
+  <img src="https://img.shields.io/badge/📉_Deleted--2.82M-critical?style=flat" alt="Deleted" />
+  <img src="https://img.shields.io/badge/📅_Updated-27%2F07%2F2026-informational?style=flat" alt="Date" />
+</p>
+
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&width=500&lines=Java+Backend+Development;Network+Programming;Real-time+Systems" alt="Typing SVG" />
 </p>
 
@@ -13,24 +20,27 @@ Mình là sinh viên năm cuối chuyên ngành Công nghệ thông tin. Định
 ---
 
 ### 🔭 Mình đang làm gì
-*   **Web & API Development:** Xây dựng hệ thống Web API ứng dụng thực tế bằng Spring Boot, tích hợp các giải pháp bảo mật và quản lý dữ liệu phổ biến, kết hợp với React ở Frontend.
-*   **Network Programming:** Nghiên cứu lập trình mạng, tự thiết kế các giải pháp truyền tải và giao tiếp dữ liệu giữa Client và Server phục vụ cho các dự án cá nhân.
+
+- **Web & API Development:** Xây dựng hệ thống Web API ứng dụng thực tế bằng Spring Boot, tích hợp các giải pháp bảo mật và quản lý dữ liệu phổ biến, kết hợp với React ở Frontend.
+- **Network Programming:** Nghiên cứu lập trình mạng, tự thiết kế các giải pháp truyền tải và giao tiếp dữ liệu giữa Client và Server phục vụ cho các dự án cá nhân.
 
 ### 🌱 Mình đang học hỏi
-*   Tìm hiểu sâu hơn về tối ưu hóa luồng xử lý dữ liệu thời gian thực và quản lý kết nối đồng thời.
-*   Nghiên cứu các giải pháp tối ưu hóa băng thông truyền tải trên môi trường mạng và kiến trúc hệ thống phân tán cơ bản.
+
+- Tìm hiểu sâu hơn về tối ưu hóa luồng xử lý dữ liệu thời gian thực và quản lý kết nối đồng thời.
+- Nghiên cứu các giải pháp tối ưu hóa băng thông truyền tải trên môi trường mạng và kiến trúc hệ thống phân tán cơ bản.
 
 ### 👯 Định hướng hợp tác
-*   Sẵn sàng tham gia phát triển phần Backend cho các ứng dụng tương tác thời gian thực, hệ thống Web API, hoặc các bài toán xử lý logic cần đào sâu về tư duy Core.
+
+- Sẵn sàng tham gia phát triển phần Backend cho các ứng dụng tương tác thời gian thực, hệ thống Web API, hoặc các bài toán xử lý logic cần đào sâu về tư duy Core.
 
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Languages & Core** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Frameworks & DB** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| Layer                | Technologies                                                                                                                                                                                                                                                                                  |
+| :------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages & Core** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)                                                                                                                                                                                              |
+| **Frameworks & DB**  | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)                                                                                          |
 | **Frontend & Tools** | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
